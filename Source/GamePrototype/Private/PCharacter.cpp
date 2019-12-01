@@ -18,6 +18,10 @@ void APCharacter::BeginPlay()
 	
 }
 
+void APCharacter::MoveForward()
+{
+}
+
 // Called every frame
 void APCharacter::Tick(float DeltaTime)
 {
